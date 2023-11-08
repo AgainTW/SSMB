@@ -1,0 +1,21 @@
+歡迎使用<<StarMusicBox星空音樂盒>>
+
+操作步驟：
+1.將圖片拉至start.bat上
+2.星空音樂盒會將轉換後的音樂處存在product資料夾內
+3.產出音樂檔名皆為star_sound.mp3
+
+注意：
+1.請勿任意更動star_to_music內任意文件
+2.目前無法批量轉換，一次僅能轉換一張圖(目前僅支援jpg檔)
+3.product內音樂會被覆寫，每使用一次記得將音樂取出
+4.亮點越多的圖片轉換越久
+5.若要將start.bat拉出請另外建立捷徑
+6.在出現「複製了         1 個檔案。」後需稍待片刻，因為要解壓函式庫
+
+備註：
+1.Original_Picture.jpg為測試圖片
+2.Original_Picturepr_to_music.mp3為轉換之音樂
+3.頻譜圖_1是將Original_Picturepr_to_music.mp3放入Adobe Audition CS6讀取
+4.頻譜圖_2是Original_Picturepr_to_music.mp3的時間-頻率圖
+5.頻譜比較圖是將圖片與音樂的時間-頻率圖拉至類似比例作比較，時間-頻率圖上亮條大致對應圖片上星空的位置
